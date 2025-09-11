@@ -60,7 +60,7 @@ for i in range(1, num_records + 1):
     data.append(record)
 
 # Output directory
-output_dir = r"d:\Program\API"
+output_dir = r"d:\Git\loremore"
 os.makedirs(output_dir, exist_ok=True)
 
 # Save JSON
