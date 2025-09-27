@@ -1,5 +1,16 @@
 @import "tailwindcss";
 
+<<<<<<< HEAD
 body {
   font-family: "Open Sans", sans-serif;
 }
+=======
+
+.scrollbar-hide{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
+>>>>>>> 7a5295270b3dccbf695fc409c940dfb4951c10a6

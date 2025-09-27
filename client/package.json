@@ -10,17 +10,23 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@codemirror/basic-setup": "^0.20.0",
     "@codemirror/lang-javascript": "^6.2.4",
     "@codemirror/state": "^6.5.2",
     "@codemirror/view": "^6.38.3",
+=======
+>>>>>>> 7a5295270b3dccbf695fc409c940dfb4951c10a6
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.3.2",
     "@mui/material": "^7.3.2",
     "@tailwindcss/vite": "^4.1.13",
     "axios": "^1.11.0",
+<<<<<<< HEAD
     "codemirror": "^6.0.2",
+=======
+>>>>>>> 7a5295270b3dccbf695fc409c940dfb4951c10a6
     "formik": "^2.4.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
